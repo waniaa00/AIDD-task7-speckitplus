@@ -1,7 +1,7 @@
 
 # 🌐AIDD-30-days-challenge-task-vii
 
-## 🔎SPECKit PLUS:
+## 🔎SPECKit Plus:
 
 SPECKit Plus is a Spec-Driven Development (SSD) toolkit designed to build flexible multi-agent AI systems by converting specifications into working implementations. It provides a structured development workflow that starts with defining project principles and guidelines and goes through specifications, breaking down tasks and implementation levels. It also provides reusable patterns and templates of reference projects other than working code.
 
